@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+node version(18.14.2)
+
+npm verion(9.5.0)
+
 In the project directory, you can run:
 
 ### `npm install`
